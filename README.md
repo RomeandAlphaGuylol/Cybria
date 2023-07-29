@@ -1,5 +1,5 @@
-# Cybria-Theory
-### Cybria is an AI, it's theory will be shared here..
+# Cybria!
+### Cybria is an AI.
 
 # Setup
 Installation of Cybria isn't done yet! it's under work.
